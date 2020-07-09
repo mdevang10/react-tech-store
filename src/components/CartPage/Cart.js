@@ -2,7 +2,6 @@ import React from "react";
 
 import Title from "../Title";
 import CartColumns from "./CartColumns";
-import CartItem from "./CartItem";
 import CartList from "./CartList";
 import CartTotal from "./CartTotal";
 

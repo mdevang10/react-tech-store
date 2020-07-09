@@ -2,7 +2,6 @@ import React from "react";
 
 import CartItem from "./CartItem";
 import { ProductConsumer } from "../../context";
-import { FaCarrot } from "react-icons/fa";
 
 export default function CartList() {
 	return (
