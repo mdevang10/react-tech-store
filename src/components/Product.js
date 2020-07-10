@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import { FaSearch, FaCartPlus } from "react-icons/fa";
 import { ProductConsumer } from "../context";
 
+
 export default function Product({ product }) {
 	return (
 		<ProductConsumer>
